@@ -4,7 +4,7 @@ System requirements:
 1. Python 3.6 or above
 2. pandas module version 1.0.3
 
-*This project was provided to IMT-school www.imtschoo.com as Final project of Python basics online course.
+*This project was provided to IMT-school www.imtschool.com as Final project of Python basics online course.
 --
 
 *Hospital Management System:
